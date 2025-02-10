@@ -23,7 +23,7 @@ const endpoint = 'https://api.devnet.solana.com';
 
 // Константы: program id и фиксированный mint
 const programId = new PublicKey("2BESDrxqXxBWYwhiuzC4SgsoCmqoMiiEGwZ1en6gT4Se");
-const FIXED_MINT = new PublicKey("CjrrRQEZb9tKNcnzu3ayg6RftNVWZxSxM1f6t5N7siCP");
+const FIXED_MINT = new PublicKey("91aT1KmqDzdBD6ZvJVFx79wdLv7WsgYQLkqXYv2Gxqpk");
 
 // Вспомогательная функция хеширования, возвращает Buffer
 function sha256(data) {
